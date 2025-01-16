@@ -21,7 +21,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                         |
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  título  | crie um título de um podcast sobre o tema de análise de dados, o podcast é voltado para usuários iniciantes de dados e o subnicho é análise com python, o título deve ser curto e impactante, e tenha uma temática mais informal, liste uma variação de 10 títulos |
-| conteúdo | faça um texto para um ebook, com foco em Python para análise de dados, falando desde o básico até insights, o ebook será voltado para iniciantes. |
+| conteúdo | faça roteiro para um podcast, com foco em análise de dados, falando algumas curiosidades e com um texto simples e dinâmico, o podcast será voltado para iniciantes. |
 
 
 Midjourney：
