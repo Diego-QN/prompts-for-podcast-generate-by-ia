@@ -1,0 +1,41 @@
+Nome do podcast
+
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em análise de dados e eu gostaria de uma ajuda sua para criar 10 sugestões
+de nomes criativos para um podcast de dados e análise com python
+
+O podcast vai falar sobre dicas e novidades sobre o mundo dos dados e o que está acontecendo no mercado
+
+{REGRAS}
+O nome deve ser enxuto, um nome e um subtítulo
+O nome deve ter uma temática mais informal e próxima do jovem
+O nome deve conter alguma palavra forte que remeta a análise de dados
+{REGRAS NEGATIVAS}
+Não quero que o título contenha palavras em inglês
+Não quero que utilize nenhuma das palavras nessa lista: Python, programador
+Não utilize a palavra dados no nome nem qualquer variação dela
+
+
+
+-----------------------------------------------------------------------
+
+Episódio de Podcast
+
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em análise de dados cujo o nome é "Foco no Gráfico - Um papo leve sobre o que está por trás dos dados" e tem foco análise de dados, com o público alvo de iniciantes em análise de dados
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+{REGRAS}
+no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Análise de Dados
+no bloco [CURIOSIDADE 2] sobre uma ferramenta para análise de dados
+no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Diego e esse foi o Foco no Gráfico dessa semana'
+use termos de fácil explicação
+O podcast vai ser apresentado somente por uma pessoa, chamada Diego
+O podcast deve ser curto
+{REGRAS NEGATIVAS}
+Não use muitos termos técnicos
+Não ultrapasse 5 minutos de duração
