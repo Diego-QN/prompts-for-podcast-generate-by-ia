@@ -26,9 +26,9 @@ ChatGPT：
 
 Midjourney：
 
-|  Ação  | prompt                                                                                       |
-| :----: | -------------------------------------------------------------------------------------------- |
-| título | crie uma imagem de um jovem analisando dados, referente a temática análise de dados e python |
+|  Ação  | prompt                                                                                                      |
+| :----: | ----------------------------------------------------------------------------------------------------------- |
+| título | crie uma imagem para um podcast chamado Foco no Gráfico: "Um papo leve sobre o que está por trás dos dados" |
 
 ## ✨ Como foi feito ?
 
